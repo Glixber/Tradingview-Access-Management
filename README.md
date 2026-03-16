@@ -1,4 +1,4 @@
-[![Trendoscope](https://avatars.githubusercontent.com/u/107564590)](https://trendoscope.com)
+[![Trendoscope](https://umsousercontent.com/lib_jnHIJpnVlRcdXHEm/fp0cmvoarz835cz6.svg)](https://trendoscope.com)
 # Tradingview-Access-Management
 [![CodeFactor](https://www.codefactor.io/repository/github/trendoscope-algorithms/tradingview-access-management/badge)](https://www.codefactor.io/repository/github/trendoscope-algorithms/tradingview-access-management)
 <br>
