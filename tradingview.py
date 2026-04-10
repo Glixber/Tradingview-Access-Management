@@ -44,7 +44,6 @@ class tradingview:
                             headers=login_headers)
       cookies = login.cookies.get_dict()
       self.sessionid = cookies["sessionid"]
-      db["sessionid"] = self.sessionid
 
   def validate_username(self, username):
     users = requests.get(config.urls["username_hint"] + "?s=" + username)
